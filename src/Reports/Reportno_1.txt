@@ -1,0 +1,9 @@
+#Thu Mar 30 18:50:28 IST 2017
+ReportWrittenBy=kumar
+Report\ No=1
+MedicalDetails=lkjhgfds
+DiagonsisDetails=lkjhgbvfcdx
+PatientName*=jhgfd
+Date\ =30/03/17
+PatientId*=7
+===============================================================

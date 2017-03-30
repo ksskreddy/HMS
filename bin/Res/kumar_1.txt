@@ -1,0 +1,10 @@
+#Thu Mar 30 18:40:41 IST 2017
+Sex\:=Male
+Password\:=likhith
+Id=1
+LastName\:=Likhith
+Qualifications\:=MBBS
+FirstName\:=Katta
+Phone\ No\:=9989898998
+Age\:=67
+UserName\:=kumar

@@ -1,0 +1,10 @@
+#Thu Mar 30 14:00:40 IST 2017
+TestDetails=Diseases
+AmountPaid*=500
+Bill\ No=1
+MedicalDetails=Medicines
+PatientName*=surya
+Date\ =30/03/17
+PatientId*=7
+AmountReceivedby=Satish
+===============================================================

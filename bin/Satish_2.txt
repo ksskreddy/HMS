@@ -1,0 +1,9 @@
+#Thu Mar 30 14:01:00 IST 2017
+Phone\ No\:=9932028385
+Password\:=satish
+Sex\:=Male
+UserName\:=Satish
+FirstName\:=Karri
+LastName\:=Reddy
+Age\:=12
+Address\:=LBS IIT KGP

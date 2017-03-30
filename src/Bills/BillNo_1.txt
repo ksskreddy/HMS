@@ -1,0 +1,10 @@
+#Thu Mar 30 18:49:34 IST 2017
+TestDetails=hgfcd
+AmountPaid*=899
+Bill\ No=1
+MedicalDetails=hgfvcdxz
+PatientName*=kghgj
+Date\ =30/03/17
+PatientId*=6
+AmountReceivedby=bag
+===============================================================

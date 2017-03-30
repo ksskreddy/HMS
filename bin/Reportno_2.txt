@@ -1,0 +1,9 @@
+#Thu Mar 30 17:53:15 IST 2017
+ReportWrittenBy=likhith
+Report\ No=2
+MedicalDetails=;lkjhgfcdxsdfghjkl;
+DiagonsisDetails=hgfdxszxdcfghjkl
+PatientName*=sai
+Date\ =30/03/17
+PatientId*=6
+===============================================================
